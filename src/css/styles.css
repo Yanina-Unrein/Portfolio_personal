@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+:root {
+    --sm: 14px;
+    --md: 16px;
+    --lg: 18px;
+    --main-color: #F5CCC3;
+    --white: #f6f6f6;
+    --beige: #ebdad1;
+    --vintage: #c4a6a6;
+    --black: #22222B;
+}
